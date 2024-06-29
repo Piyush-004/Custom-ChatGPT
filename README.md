@@ -4,5 +4,9 @@ I implemented a ChatGPT-based project, demonstrating the ability to leverage nat
 
 
 
-https://github.com/Piyush-004/Custom-ChatGPT/assets/113037641/6a59e2e9-1dec-46dc-9821-59df849557ce
+
+
+https://github.com/Piyush-004/Custom-ChatGPT/assets/113037641/c096f28b-3025-4c18-8879-3acdbd7d7393
+
+
 
